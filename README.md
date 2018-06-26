@@ -1,4 +1,4 @@
-# NYC-Subway-Data-Analysis :
+﻿# NYC-Subway-Data-Analysis :
 
 Project of the Nanodegree Program "Big Data Foundations", Udacity. The Jupyter file and the html file have been attached here. All files containing the data consumed or generated during project execution can be found in the dataset directory.
 
@@ -14,8 +14,9 @@ I've been exposed to and learn fundamental Data Science skills, such as: Dispute
 
 # Key Software used :
 
-_*Anaconda
-Jupyter*_
+  _*Anaconda*_
+
+  _*Jupyter*_
 
 # References :
 
